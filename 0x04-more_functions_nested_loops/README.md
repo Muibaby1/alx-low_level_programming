@@ -1,1 +1,1 @@
-0x04-more function
+0x04-more functions
