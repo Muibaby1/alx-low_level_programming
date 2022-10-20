@@ -51,6 +51,7 @@ int print_last_digit(int);
  * jack_bauer - jack bauer gooo
  *
  */
+void jack_bauer(void);
 /**
  * times_table - times this up
  *
@@ -142,3 +143,4 @@ void print_triangle(int size);
  */
 void print_number(int n);
 #endif
+
